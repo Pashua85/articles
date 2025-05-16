@@ -72,7 +72,7 @@
 
 
 
-
+````
 .. code::
 .
 |-- ContentStore
@@ -105,3 +105,4 @@
         |-- noarm.mshi
         |-- resources.mshi
         `-- windowsclient.mshi
+````
